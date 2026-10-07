@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/86bd959d-063a-4737-81f7-b0afcf01bbf5
 
 > **FinOps (Financial Operations)** is the discipline of giving engineering teams real-time visibility into cloud spending — and making someone accountable for it.
 
-Most organizations discover AWS cost problems **after the monthly bill arrives**. By then, a misconfigured service or a forgotten resource has already burned through thousands of dollars.
+Most organizations discover AWS cost problems **after the monthly bill arrives**. By then, a misconfigured service or a forgotten resources has already burned through thousands of dollars.
 
 This project flips that model:
 
